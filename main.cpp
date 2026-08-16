@@ -7,6 +7,7 @@ int main(){
 cout<<"hello world"<<endl;
 
 cout<<"vivek";
+cout<<"hey";
 
 
 
